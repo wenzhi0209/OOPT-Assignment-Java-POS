@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Assignment</label>
+		<id>2573</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Assignment.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Assignment.jcp</path>
+		</project>
+	</projects>
+</workspace>

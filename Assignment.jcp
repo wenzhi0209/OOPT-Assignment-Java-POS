@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Assignment</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.8.0_211</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>Assignment</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\Assignment.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\CScreen.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\MembershipReport.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Password.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\ProductReport.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\ReportMenu.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\StaffReport.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

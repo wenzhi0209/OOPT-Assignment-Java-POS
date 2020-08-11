@@ -1,0 +1,7 @@
+"C:\\Users\\WEN ZHI\\Documents\\JCreator LE\\MyProjects\\Assignment\\src\\Assignment.java"
+"C:\\Users\\WEN ZHI\\Documents\\JCreator LE\\MyProjects\\Assignment\\src\\CScreen.java"
+"C:\\Users\\WEN ZHI\\Documents\\JCreator LE\\MyProjects\\Assignment\\src\\MembershipReport.java"
+"C:\\Users\\WEN ZHI\\Documents\\JCreator LE\\MyProjects\\Assignment\\src\\Password.java"
+"C:\\Users\\WEN ZHI\\Documents\\JCreator LE\\MyProjects\\Assignment\\src\\ProductReport.java"
+"C:\\Users\\WEN ZHI\\Documents\\JCreator LE\\MyProjects\\Assignment\\src\\ReportMenu.java"
+"C:\\Users\\WEN ZHI\\Documents\\JCreator LE\\MyProjects\\Assignment\\src\\StaffReport.java"
